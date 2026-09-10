@@ -52,7 +52,7 @@ section#login > div#imagem {
     background: #5f2c82 url(../imagens/img1.jpg) no-repeat;
     background-position: center center;
     background-size: cover;
-    height: 200px;
+    height: 200px; 
 }
 
 section#login > div#formulario {
